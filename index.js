@@ -80,3 +80,14 @@ Object.isFrozen(obj1)
 
 Object.isExtensible(obj1)
  */
+
+/**
+ * JSON
+ * 
+ const json = '{"result":true, "count":42}';
+ const obj = JSON.parse(json);
+
+ JSON.stringify({result: true, count: 42});
+
+
+ */
